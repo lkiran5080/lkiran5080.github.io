@@ -3,7 +3,7 @@
 ---
 
 
-![wip](..assets/wip.gif?raw=true)
+![wip](../assets/wip.gif?raw=true)
 
 
 ---
