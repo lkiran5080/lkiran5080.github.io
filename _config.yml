@@ -1,1 +1,14 @@
-theme: jekyll-theme-midnight
+
+title: L Kiran
+email: snakecharmer20@protonmail.com
+description: .ai is a scam
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://lkiran5080.github.io" # the base hostname & protocol for your site
+twitter_username: KiranLakshay
+github_username:  lkiran5080
+paginate: 5
+theme-dark: false #Set to true to change to dark website theme
+
+plugins: [jekyll-paginate, kramdown]
+# Build settings
+markdown: kramdown
